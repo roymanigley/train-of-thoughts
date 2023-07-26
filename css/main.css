@@ -324,7 +324,7 @@ body{
 
 #player-info{
     position: absolute;
-        bottom: 30px;
+        bottom: 148px;
         right: 25px;
         /* width:350px; */
         height: 150px;
@@ -333,6 +333,8 @@ body{
         opacity: .5;
         font-family: 'Times New Roman', Times, serif;
         color: white;
+        background: black;
+        margin-right: 26%;
 }
 #player-info:hover{
     opacity: 1;
